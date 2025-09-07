@@ -1,2 +1,2 @@
 # FEND
-This is an implementation of DMSP. The code is in preparation and will be released soon.
+This is an implementation of ***. The code is in preparation and will be released soon.
